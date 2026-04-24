@@ -64,6 +64,6 @@ Currently developing personal projects in Python with a focus on automation and 
 <br/>  
 
 ## Github Stats  
-
+<a href="http://www.github.com/matmottola"><img src="https://github-readme-stats.vercel.app/api?username=matmottola&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="matmottola's GitHub stats" href="https://github.com/matmottola" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matmottola&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"  /></a>
 
 <img src="https://raw.githubusercontent.com/Matmottola/Matmottola/output/snake.svg" alt="Snake animation" />

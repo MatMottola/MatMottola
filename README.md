@@ -27,6 +27,7 @@ Currently developing personal projects in Python with a focus on automation and 
 🌱 Developing personal projects in Python with a focus on automation and security.   
 
 ⚡ Fun fact: 150+ Streak Days in Duolingo 
+
 ![](https://komarev.com/ghpvc/?username=matmottola)
 </td></tr> 
 <br/>  

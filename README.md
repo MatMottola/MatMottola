@@ -40,14 +40,9 @@ Currently developing personal projects in Python with a focus on automation and 
 - ⚡ Fun fact: 150+ Streak Days in Duolingo  
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  

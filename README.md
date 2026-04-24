@@ -31,7 +31,7 @@ Currently developing personal projects in Python with a focus on automation and 
 
 ⚡ Fun fact: 150+ Streak Days in Duolingo.
 
-![](https://komarev.com/ghpvc/?username=matmottola)
+![](https://komarev.com/ghpvc/?username=matmottola&color=orange)
 </td></tr> 
 <br/>  
 

@@ -71,18 +71,15 @@ Currently developing personal projects in Python with a focus on automation and 
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://lua.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-</div>  
-
+ 
 <br/>  
 
 
 ## Github Stats  
 <b>My GitHub Stats</b>
-
 <a href="http://www.github.com/matmottola"><img src="https://github-readme-stats.vercel.app/api?username=matmottola&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="matmottola's GitHub stats" /></a>
-<br/>  
+
+<a href="https://github.com/matmottola" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matmottola&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br/>  
 ![Profile views counter](https://komarev.com/ghpvc/?username=matmottola&&style=flat-square)  
-<br/>  
 <br />

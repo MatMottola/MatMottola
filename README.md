@@ -1,7 +1,7 @@
 ##  👋, I'm Matheus Mottola  
 
 ### Glad to see you here!  
-A professional transitioning into the tech industry, with a degree in Digital Law and currently pursuing a degree in Systems Analysis and Development at FATEC-SP.📚
+A professional transitioning into tech, with a degree in Digital Law and currently pursuing a degree in Systems Analysis and Development at FATEC-SP.📚
 
 I have worked in large corporate environments with SAP FI/ECC, data analysis, process standardization, and operational workflow improvement. 
 

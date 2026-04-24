@@ -1,15 +1,4 @@
 ##  👋, I'm Matheus Mottola  
-  
-
-<a href="https://github.com/matmottola" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/matheusmottola" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
-
 
 ### Glad to see you here!  
 A professional transitioning into the tech industry, with a degree in Digital Law and currently pursuing a degree in Systems Analysis and Development at FATEC-SP.📚
@@ -22,25 +11,30 @@ Certified by Oracle (Cloud Foundations, OCI AI) and EXIN (Privacy & Data Protect
 
 Currently developing personal projects in Python with a focus on automation and security. 
 
-  
+<a href="https://github.com/matmottola" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/matheusmottola" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>    
   
 
 <br/>  
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 🔭 Pursuing a degree in Systems Analysis and Development at FATEC-SP.  
   
 
-- 🌱 Developing personal projects in Python with a focus on automation and security.   
+🌱 Developing personal projects in Python with a focus on automation and security.   
   
 
-- ⚡ Fun fact: 150+ Streak Days in Duolingo  
+⚡ Fun fact: 150+ Streak Days in Duolingo  
 
 
-</td></tr></table>  
+</td></tr> 
 
 <br/>  
 

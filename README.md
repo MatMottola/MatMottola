@@ -77,15 +77,9 @@ Currently developing personal projects in Python with a focus on automation and 
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=matmottola&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matmottola&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
+<a href="http://www.github.com/matmottola"><img src="https://github-readme-stats.vercel.app/api?username=matmottola&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="matmottola's GitHub stats" /></a>
 
 <br/>  
 

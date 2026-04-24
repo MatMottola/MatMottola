@@ -22,9 +22,12 @@ Currently developing personal projects in Python with a focus on automation and 
 
 ## Rapidfire  
 <tr><td valign="top" width="50%">
+  
 🔭 Pursuing a degree in Systems Analysis and Development at FATEC-SP.  
 
+
 🌱 Developing personal projects in Python with a focus on automation and security.
+
 
 ⚡ Fun fact: 150+ Streak Days in Duolingo.
 

@@ -5,7 +5,7 @@ A professional transitioning into tech, with a degree in Digital Law and current
 
 I have worked in large corporate environments with SAP FI/ECC, data analysis, process standardization, and operational workflow improvement. 
 
-I have a technical background in Python, C, Lua, and VBA, with an interest in backend development, automation, and information security.
+Technical background in Python, C, Lua, and VBA, with an interest in backend development, automation, and information security.
 
 Certified by Oracle (Cloud Foundations, OCI AI) and EXIN (Privacy & Data Protection, ISO 27001). Practical experience with LGPD/GDPR in international projects.
 
